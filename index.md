@@ -6,6 +6,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![Link](/portfolio-20/kini.jpg) or ![Image](/kini.jpg)
+
+![Image](/portfolio-20/kini)
+
+![Image](/portfolio-20/kini.jpeg)
+
+![GitHub Logo](/kini.jpg)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of Yaktocat](https://dclv.github.io/portfolio-20//kini.jpg)
+
+
 ```markdown
 Syntax highlighted code block
 
