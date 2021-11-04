@@ -15,12 +15,13 @@ Portfolio 2020
 
 ![Link](/portfolio-20/kini.jpg) or ![Image](/kini.jpg)
 
-![Image](/portfolio-20/kini.jpg)
+![Image](/portfolio-20/kini)
 
-![Image](/portfolio-20/kini.jpg)
+![Image](/portfolio-20/kini.jpeg)
 
 ![GitHub Logo](/kini.jpg)
 
+![Image of Yaktocat](https://dclv.github.io/portfolio-20//kini.jpg)
 
 
 ```
