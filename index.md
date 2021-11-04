@@ -13,13 +13,13 @@ Portfolio 2020
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](/portfolio-20/nikabayestate.jpg) or ![Image](/nikabayestate)
+[Link](/portfolio-20/kini.jpg) or ![Image](/kini.jpg)
 
-[Image](/portfolio-20/nikabayestate.jpg)
+[Image](/portfolio-20/kini.jpg)
 
-[Image](/portfolio-20/nikabayestate)
+[Image](/portfolio-20/kini.jpg)
 
-![GitHub Logo](/nikabayestate.jpg)
+![GitHub Logo](/kini.jpg)
 
 
 
