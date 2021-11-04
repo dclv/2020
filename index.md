@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-MIght try this one out too
+WHAAT Migght try this one out too
 
 - Bulletino
 - List
