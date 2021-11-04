@@ -21,6 +21,8 @@ Portfolio 2020
 
 ![GitHub Logo](/kini.jpg)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ![Image of Yaktocat](https://dclv.github.io/portfolio-20//kini.jpg)
 
 
