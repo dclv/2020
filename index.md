@@ -1,21 +1,10 @@
-<html>
-<head>
-<style>
-body {
-  font-family: 'Times New Roman', serif;
-}
-</style>
-</head>
-<body>
 
-
-<p>
-by daniel calvo <br>
+daniel calvo <br>
 work done from 09/2018 to 05/2020 <br>
-contact calvodaniel@protomail.com</p>
+contact calvodaniel@protomail.com <br>
 
-</body>
-</html>
+for an internet enabling the individual to be a sovereign
+
 
 ![Image](/pf20-danielcalvo-1.jpg)
 ![Image](/pf20-danielcalvo-2.jpg)
