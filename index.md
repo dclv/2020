@@ -13,7 +13,14 @@ Portfolio 2020
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) or ![Image](nika bay estate 01.jpg)
+[Link](portfolio-20/nikabayestate.jpg) or ![Image](nikabayestate.jpg)
+
+[Image](portfolio-20/nikabayestate.jpg)
+
+[Image](portfolio-20/nikabayestate)
+
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
