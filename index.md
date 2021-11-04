@@ -13,7 +13,7 @@ Portfolio 2020
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](portfolio-20/nikabayestate.jpg) or ![Image](/nikabayestate.jpg)
+[Link](/portfolio-20/nikabayestate.jpg) or ![Image](/nikabayestate)
 
 [Image](/portfolio-20/nikabayestate.jpg)
 
