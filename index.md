@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/dclv/portfolio-20/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+WHAT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Markdown
 
 ```markdown
 Syntax highlighted code block
@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+
+WHATT
 - Bulleted
 - List
 
