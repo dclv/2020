@@ -18,6 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ![Image of Yaktocat](https://dclv.github.io/portfolio-20//kini.jpg)
 
+<img src="/kini.jpg"
 
 ```markdown
 Syntax highlighted code block
