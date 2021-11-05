@@ -7,7 +7,7 @@ for an internet enabling the individual to be a sovereign
 
 
 
-![Image](/danielcalvo-portfolio20-2.jpg)
+![Image](/danielcalvo-portfolio20-0.jpg)
 
 ![Image](/pf20-danielcalvo-1.jpg)
 ![Image](/pf20-danielcalvo-2.jpg)
