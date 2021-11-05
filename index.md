@@ -8,12 +8,7 @@ for an internet enabling the individual to be a sovereign
 
 
 ![Image](/danielcalvo-portfolio20-0.jpg)
-
-![Image](/pf20-danielcalvo-1.jpg)
-![Image](/pf20-danielcalvo-2.jpg)
 ![Image](/pf20-danielcalvo-3.jpg)
-
-
 ![Image](/danielcalvo-portfolio20-3.jpg)
 ![Image](/danielcalvo-portfolio20-5.jpg)
 ![Image](/danielcalvo-portfolio20-6.jpg)
@@ -21,6 +16,7 @@ for an internet enabling the individual to be a sovereign
 ![Image](/danielcalvo-portfolio20-9.jpg)
 ![Image](/danielcalvo-portfolio20-10.jpg)
 ![Image](/danielcalvo-portfolio20-12.jpg)
+![Image](/pf20-danielcalvo-2.jpg)
 ![Image](/danielcalvo-portfolio20-13.jpg)
 ![Image](/danielcalvo-portfolio20-14.jpg)
 ![Image](/danielcalvo-portfolio20-141.jpg)
