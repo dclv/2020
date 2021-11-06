@@ -1,6 +1,6 @@
 portfolio of daniel calvo <br>
-currently working asat herzog de meuron
-work done between 09/2018 and 05/2020 <br>
+currently working at herzog de meuron<br>
+work done between 09/2018 and 05/2020 
 mainly conceived as part of the masters degree at eth zurich <br>
 contact calvodaniel@protonmail.com <br>
 
