@@ -1,10 +1,8 @@
-
-daniel calvo <br>
+portfolio of daniel calvo <br>
+currently working asat herzog de meuron
 work done between 09/2018 and 05/2020 <br>
+mainly conceived as part of the masters degree at eth zurich <br>
 contact calvodaniel@protonmail.com <br>
-
-
-
 
 ![Image](/danielcalvo-portfolio20-0.jpg)
 ![Image](/danielcalvo-portfolio20-3.jpg)
@@ -14,7 +12,7 @@ contact calvodaniel@protonmail.com <br>
 ![Image](/danielcalvo-portfolio20-9.jpg)
 ![Image](/danielcalvo-portfolio20-10.jpg)
 ![Image](/danielcalvo-portfolio20-12.jpg)
-![Image](/pf20-danielcalvo-3.jpg)
+![Image](/danielcalvo-portfolio20-121.jpg)
 ![Image](/danielcalvo-portfolio20-13.jpg)
 ![Image](/danielcalvo-portfolio20-14.jpg)
 ![Image](/danielcalvo-portfolio20-141.jpg)
