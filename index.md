@@ -35,7 +35,3 @@ contact calvodaniel@protonmail.com <br>
 ![Image](/danielcalvo-portfolio20-33.jpg)
 ![Image](/danielcalvo-portfolio20-34.jpg)
 ![Image](/danielcalvo-portfolio20-35.jpg)
-
-
-for an internet enabling the individual to be a sovereign
-
