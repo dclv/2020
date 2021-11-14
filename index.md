@@ -1,8 +1,11 @@
 portfolio of daniel calvo <br>
-currently working at herzog de meuron<br>
-work done between 09/2018 and 05/2020.
+work done between 09/2018 and 05/2020.<br>
 mainly conceived as part of the masters degree at eth zurich <br>
+currently working at herzog de meuron<br>
 contact calvodaniel@protonmail.com <br>
+
+[Contact Us](mailto:admin@cloudhadoop.com)
+
 
 
 
