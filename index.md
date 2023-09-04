@@ -7,6 +7,7 @@ last updated: 04/09/2023
 <details>
 <summary>Lochau</summary>
 ![Image](/portfolio_2.jpg)<br>
+
 image left: Neue Fähre (proposed project)<br>
 image top right: Point Cloud Alte Fähre<br>
 image bottom right: Point Cloud Reused Elements, Alte Fähre<br>
@@ -15,6 +16,8 @@ The main level is raised of the ground, as the deck of a ferry would be, and the
 set where they already were. Both decks at the bow and stern comprise together with the upper deck, the public areas to be accessible at all time. These areas by themselves or in interaction with the restaurant, the workshop, and the square in front of the ferry, enable a manifold of possible uses.<br>
 
 ![Image](/portfolio_3.jpg)
+<IMG src="/portfolio_3.jpg"/>
+<IMG alt="/portfolio_3.jpg"/>
 
 image left: wooden structure and metalic bulwark, Holztragwerk und metallisches Schanzkleid
 image right: Neue Fähre (proposed project)
