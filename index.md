@@ -5,13 +5,8 @@ contact [calvodaniel@protonmail.com](mailto:calvodaniel@protonmail.com)<br>
 last updated: 04/09/2023
 
 <details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-![Image](/portfolio_2.jpg)
-
+<summary>Lochau</summary>
+![Image](/portfolio_2.jpg)<br>
 image left: Neue Fähre (proposed project)<br>
 image top right: Point Cloud Alte Fähre<br>
 image bottom right: Point Cloud Reused Elements, Alte Fähre<br>
@@ -23,7 +18,6 @@ set where they already were. Both decks at the bow and stern comprise together w
 
 image left: wooden structure and metalic bulwark, Holztragwerk und metallisches Schanzkleid
 image right: Neue Fähre (proposed project)
-
 </details>
 
 
