@@ -7,22 +7,14 @@ last updated: 04/09/2023
 <details>
 <summary>Lochau</summary>
 
-<figure>
-    <img src="/portfolio_2.jpg"
-         alt="Neue Fähre, New Mexico">
-    <figcaption>
-image left: Neue Fähre (proposed project)<br>
-image top right: Point Cloud Alte Fähre<br>
-image bottom right: Point Cloud Reused Elements, Alte Fähre </figcaption>
-</figure>
-
 <IMG src="/portfolio_2.jpg"/>
 image left: Neue Fähre (proposed project)<br>
 image top right: Point Cloud Alte Fähre<br>
 image bottom right: Point Cloud Reused Elements, Alte Fähre<br> 
-> The ferry is part of the collective memory of the inhabitants of Lochau. A place of everyday life and special occurences. The formed qualities hereof should be carried forward. Spatial configurations, circulation patterns, visual axis, materiality, colors, proportions and a choice of existing elements will be constituent for the Neue Fähre.
+_The ferry is part of the collective memory of the inhabitants of Lochau. A place of everyday life and special occurences. The formed qualities hereof should be carried forward. Spatial configurations, circulation patterns, visual axis, materiality, colors, proportions and a choice of existing elements will be constituent for the Neue Fähre._
 > 
-> The main level is raised of the ground, as the deck of a ferry would be, and the access points are set where they already were. Both decks at the bow and stern comprise together with the upper deck, the public areas to be accessible at all time. These areas by themselves or in interaction with the restaurant, the workshop, and the square in front of the ferry, enable a manifold of possible uses.<br>
+> _The main level is raised of the ground, as the deck of a ferry would be, and the access points are set where they already were. Both decks at the bow and stern comprise together with the upper deck, the public areas to be accessible at all time. These areas by themselves or in interaction with the restaurant, the workshop, and the square in front of the ferry, enable a manifold of possible uses._
+
 <IMG src="/portfolio_3.jpg"/>
 image left: wooden structure and metalic bulwark, Holztragwerk und metallisches Schanzkleid<br>
 image right: Neue Fähre (proposed project)<br>
