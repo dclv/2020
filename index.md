@@ -8,24 +8,21 @@ last updated: 04/09/2023
 image left: Neue Fähre (proposed project)<br>
 image top right: Point Cloud Alte Fähre,<br>
 image bottom right: Point Cloud Reused Elements, Alte Fähre <br>
-<p>
- *The ferry is part of the collective memory of the inhabitants of Lochau. A place of everyday life and special occurences. The formed qualities hereof should be carried forward. Spatial configurations, circulation patterns, visual axis, materiality, colors, proportions and a choice of existing elements will be constituent for the Neue Fähre.* <br>
- *The main level is raised of the ground, as the deck of a ferry would be, and the access points are set where they already were. Both decks at the bow and stern comprise together with the upper deck, the public areas to be accessible at all time. These areas by themselves or in interaction with the restaurant, the workshop, and the square in front of the ferry, enable a manifold of possible uses.*
-</p>
+
+*The ferry is part of the collective memory of the inhabitants of Lochau. A place of everyday life and special occurences. The formed qualities hereof should be carried forward. Spatial configurations, circulation patterns, visual axis, materiality, colors, proportions and a choice of existing elements will be constituent for the Neue Fähre.* <br>
+
+*The main level is raised of the ground, as the deck of a ferry would be, and the access points are set where they already were. Both decks at the bow and stern comprise together with the upper deck, the public areas to be accessible at all time. These areas by themselves or in interaction with the restaurant, the workshop, and the square in front of the ferry, enable a manifold of possible uses.*
 
 ![Image](/portfolio_3.jpg)
-image left: wooden structure and metalic bulwark,
- Holztragwerk und metallisches Schanzkleid,
- image right: Neue Fähre (proposed project)<br>
+image left: wooden structure and metalic bulwark, Holztragwerk und metallisches Schanzkleid<br>
+image right: Neue Fähre (proposed project)<br>
 
 ![Image](/portfolio_4.jpg)
-<p>image left: <br>
- *Today, the underpass connects a green park and an asphalted car park. These
- two elements do not stand in relation to each other. Therefore, we propose an approximation of both by partially unsealing the surface of the parking fields and marking paths with lattice stones or simply gravel. The pedestrian and bicycle paths will be lined with trees, as on the shore side, softening the caesura of the tracks. Wildflower meadows on both ends of the underpass would mediate between the now stark existing contrast.*
-</p>
-<p> image right: <br>
- *Current agriculture land shouldn’t be kept as monoculture grassland. These “green deserts” in the center of Lochau offer barely any biodiversity and give the habitants no space for engagement or interaction. A process of transition towards a regenerative agriculture would offer space for multiple uses and actors.*
-</p>
+image left: <br>
+*Today, the underpass connects a green park and an asphalted car park. These
+two elements do not stand in relation to each other. Therefore, we propose an approximation of both by partially unsealing the surface of the parking fields and marking paths with lattice stones or simply gravel. The pedestrian and bicycle paths will be lined with trees, as on the shore side, softening the caesura of the tracks. Wildflower meadows on both ends of the underpass would mediate between the now stark existing contrast.*<br>
+image right: <br>
+*Current agriculture land shouldn’t be kept as monoculture grassland. These “green deserts” in the center of Lochau offer barely any biodiversity and give the habitants no space for engagement or interaction. A process of transition towards a regenerative agriculture would offer space for multiple uses and actors.*
 
 ![Image](/portfolio_6.jpg)
 ![Image](/portfolio_7.jpg)
