@@ -1,10 +1,25 @@
-portfolio of daniel calvo <br>
-work done between 09/2018 and 05/2020.<br>
+compiled work of daniel calvo <br>
 mainly conceived as part of the masters degree at eth zurich. <br>
 currently working at herzog de meuron.<br>
 contact [calvodaniel@protonmail.com](mailto:calvodaniel@protonmail.com)<br>
+last updated: 04/09/2023
 
 ![Image](/portfolio_2.jpg)
+![Image](/portfolio_3.jpg)
+![Image](/portfolio_4.jpg)
+![Image](/portfolio_5.jpg)
+![Image](/portfolio_6.jpg)
+![Image](/portfolio_7.jpg)
+![Image](/portfolio_8.jpg)
+![Image](/portfolio_9.jpg)
+![Image](/portfolio_10.jpg)
+![Image](/portfolio_11.jpg)
+![Image](/portfolio_12.jpg)
+![Image](/portfolio_13.jpg)
+
+done between 09/2018 and 05/2020.<br>
+
+
 ![Image](/2008_danielcalvo_pf_1.jpg)
 ![Image](/2008_danielcalvo_pf_3.jpg)
 ![Image](/2008_danielcalvo_pf_4.jpg)
