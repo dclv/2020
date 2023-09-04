@@ -5,8 +5,8 @@ contact [calvodaniel@protonmail.com](mailto:calvodaniel@protonmail.com)<br>
 last updated: 04/09/2023
 
 ![Image](/portfolio_2.jpg)
-image left: Neue Fähre (proposed project),
-image top right: Point Cloud Alte Fähre,
+image left: Neue Fähre (proposed project)<br>
+image top right: Point Cloud Alte Fähre,<br>
 image bottom right: Point Cloud Reused Elements, Alte Fähre <br>
 <p>
  *The ferry is part of the collective memory of the inhabitants of Lochau. A place of everyday life and special occurences. The formed qualities hereof should be carried forward. Spatial configurations, circulation patterns, visual axis, materiality, colors, proportions and a choice of existing elements will be constituent for the Neue Fähre.* <br>
@@ -14,8 +14,9 @@ image bottom right: Point Cloud Reused Elements, Alte Fähre <br>
 </p>
 
 ![Image](/portfolio_3.jpg)
-image left: wooden structure and metalic bulwark, Holztragwerk und metallisches Schanzkleid,
-image right: Neue Fähre (proposed project)<br>
+image left: wooden structure and metalic bulwark,
+ Holztragwerk und metallisches Schanzkleid,
+ image right: Neue Fähre (proposed project)<br>
 
 ![Image](/portfolio_4.jpg)
 <p>image left: <br>
