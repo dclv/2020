@@ -43,10 +43,11 @@ Clothesline hanging over an alley in Pallonetto S. Lucia in Naples, Giorgio Somm
 Grotta di Pozzuoli, unknown photographer (c. 1860-1895)
 
 ![Image](/portfolio_12.jpg)
-*The proposal consists of a net hanging of the roof structure, protecting the facade and spectators, while encapsulating the atmosphere for the players on the field.<br> The playing field is at the crossing axis of the Galleria, exactly aligned with the North- South (Cardo) and East-West (Decumanus) axis in an otherwise mostly curvilinear urban fabric. The geometry offers dimensions for a game of 7 vs. 7. The playing fields outlines are marked with simple black tape at the edges of the patterned pavement. 4 goals are set up. Each team therefore attacks two goals and defends two goals along their respective axis.*
+*The proposal consists of a net hanging of the roof structure, protecting the facade and spectators, while encapsulating the atmosphere for the players on the field. The playing field is at the crossing axis of the Galleria, exactly aligned with the North- South (Cardo) and East-West (Decumanus) axis in an otherwise mostly curvilinear urban fabric. The geometry offers dimensions for a game of 7 vs. 7. The playing fields outlines are marked with simple black tape at the edges of the patterned pavement. 4 goals are set up. Each team therefore attacks two goals and defends two goals along their respective axis.*
 ![Image](/portfolio_13.jpg)
 
-done between 09/2018 and 05/2020.<br>
+portfolio 2020
+work done between 09/2018 and 05/2020.<br>
 mainly conceived as part of the masters degree at eth zurich. <br>
 
 ![Image](/2008_danielcalvo_pf_1.jpg)
