@@ -4,7 +4,7 @@ mainly conceived as part of the masters degree at eth zurich. <br>
 currently working at herzog de meuron.<br>
 contact [calvodaniel@protonmail.com](mailto:calvodaniel@protonmail.com)<br>
 
-
+![Image](/portfolio_2.jpg)
 ![Image](/2008_danielcalvo_pf_1.jpg)
 ![Image](/2008_danielcalvo_pf_3.jpg)
 ![Image](/2008_danielcalvo_pf_4.jpg)
