@@ -24,8 +24,10 @@ two elements do not stand in relation to each other. Therefore, we propose an ap
 ![Image](/pf_calvo_6.jpg)
 *Current agriculture land shouldn’t be kept as monoculture grassland. These “green deserts” in the center of Lochau offer barely any biodiversity and give the habitants no space for engagement or interaction. A process of transition towards a regenerative agriculture would open these space for multiple uses and actors.*
 
+***
+
+MFH Bassersdorf
 ![Image](/pf_calvo_7.jpg)
-MFH Bassersdorf<br>
 Blick aus der Steinligstrasse, mit Benjeshecke, hoher Zeder und ausladenden Balkonen
 ![Image](/pf_calvo_8.jpg)
 Blick vom Wohnraum
@@ -36,10 +38,9 @@ Ansichten
 ![Image](/pf_calvo_11.jpg)
 Fassadenausschnitt
 
-___ 
+*** 
 
----
-
+Napoli Porosa
 ![Image](/pf_calvo_12.jpg)
 left: Walter Bejnamin, Asja Lacis, Neapel (Napoli Porosa), 1924 <br>
 *Benjamin and Lacis evocative narrative can be read as the city's resistance to the fixed, reinforcing latent potentials of improvisation and coexistence. The city is depicted as a dynamic myriad of simultaneously animated playing stages. Whether this all encompassing term porosity is capable of this or not, it offers a point of departure and a lens to observe the city.*<br>
@@ -52,15 +53,11 @@ Interior view of Galleria Umberto I in Naples, Giorgio Sommer (c. 1890-1900) <br
 Clothesline hanging over an alley in Pallonetto S. Lucia in Naples, Giorgio Sommer (c.1880-1890)<br> 
 Grotta di Pozzuoli, unknown photographer (c. 1860-1895)
 
-![Image](/pf_calvo_13.jpg)
+![Image](/pf_calvo_14.jpg)
 *A net hanging off the roof, protecting the facade and the spectators, while encapsulating the players on the field. The field is at the crossing axis of the Galleria, exactly aligned with the North- South (Cardo) and East-West (Decumanus) axis in an otherwise mostly curvilinear urban fabric. The geometry offers dimensions for a game of 7 vs. 7. The field outlines are marked with black tape following the contour of the patterned pavement. 4 goals are set up. Each team therefore attacks two goals and defends two goals along their respective axis.*
-![Image](/portfolio_13.jpg) <br>
+![Image](/pf_calvo_15.jpg) <br>
 
 ***
-
-___
-
----
 
 portfolio 2020
 work done between 09/2018 and 05/2020.<br>
