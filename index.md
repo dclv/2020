@@ -1,10 +1,10 @@
-compiled work by daniel calvo <br>
+work by daniel calvo <br>
 currently working at herzog de meuron.<br>
 contact [calvodaniel@protonmail.com](mailto:calvodaniel@protonmail.com)<br>
 last updated: 04/09/2023
 
 ![Image](/pf_calvo_2.jpg)
-Point Cloud; Alte Fähre and reused elements,<br>
+Point Cloud; Alte Fähre and reused elements<br>
 *The ferry is part of the collective memory of the inhabitants of Lochau. A place of everyday life and special occurences. The formed qualities hereof should be carried forward. Spatial configurations, circulation patterns, visual axis, materiality, colors, proportions and a choice of existing elements will be constituent for the Neue Fähre.*
 
 ![Image](/pf_calvo_1.jpg)
@@ -12,31 +12,30 @@ Neue Fähre (proposed project)<br>
 *The main level is raised of the ground, as the deck of a ferry would be, and the access points are set where they already were. Both decks at the bow and stern comprise together with the upper deck, the public areas to be accessible at all time. These areas by themselves or in interaction with the restaurant, the workshop, and the square in front of the ferry, enable a manifold of possible uses.*
 
 ![Image](/pf_calvo_3.jpg)
+View from the restaurant towards Lake Constance
 
 ![Image](/pf_calvo_4.jpg)
-wooden structure and metalic bulwark<br> 
-Holztragwerk und metallisches Schanzkleid
+wooden structure and metalic bulwark *(Holztragwerk und metallisches Schanzkleid)*
 
 ![Image](/pf_calvo_5.jpg)
-softening the railway border<br>
 *Today, the underpass connects a green park and an asphalted car park. These
 two elements do not stand in relation to each other. Therefore, we propose an approximation of both by partially unsealing the surface of the parking fields and marking paths with lattice stones or simply gravel. The pedestrian and bicycle paths will be lined with trees, as on the shore side, softening the caesura of the tracks. Wildflower meadows on both ends of the underpass would mediate between the now stark existing contrast.*
 
 ![Image](/pf_calvo_6.jpg)
-towards a regenerative agriculture<br>
-*Current agriculture land shouldn’t be kept as monoculture grassland. These “green deserts” in the center of Lochau offer barely any biodiversity and give the habitants no space for engagement or interaction. A process of transition towards a regenerative agriculture would offer space for multiple uses and actors.*
+*Current agriculture land shouldn’t be kept as monoculture grassland. These “green deserts” in the center of Lochau offer barely any biodiversity and give the habitants no space for engagement or interaction. A process of transition towards a regenerative agriculture would open these space for multiple uses and actors.*
 
 ![Image](/pf_calvo_7.jpg)
 MFH Bassersdorf<br>
-Blick aus der Steinligstrasse
+Blick aus der Steinligstrasse, mit vorgelagerter Benjeshecke, ausladenden Balkonen
 ![Image](/pf_calvo_8.jpg)
 Blick vom Wohnraum
 ![Image](/pf_calvo_9.jpg)
-Grundriss Regelgeschoss<br>
-![Image](/pf_calvo_9.jpg)
+Grundriss Regelgeschoss, Schnitte
 ![Image](/pf_calvo_10.jpg)
+Ansichten
 ![Image](/pf_calvo_11.jpg)
 Fassadenausschnitt
+***
 ![Image](/pf_calvo_12.jpg)
 left: Walter Bejnamin, Asja Lacis, Neapel (Napoli Porosa), 1924 <br>
 *Benjamin and Lacis evocative narrative can be read as the city's resistance to the fixed, reinforcing latent potentials of improvisation and coexistence. The city is depicted as a dynamic myriad of simultaneously animated playing stages. Whether this all encompassing term porosity is capable of this or not, it offers a point of departure and a lens to observe the city.*<br>
@@ -52,7 +51,7 @@ Grotta di Pozzuoli, unknown photographer (c. 1860-1895)
 ![Image](/pf_calvo_13.jpg)
 *A net hanging off the roof, protecting the facade and the spectators, while encapsulating the players on the field. The field is at the crossing axis of the Galleria, exactly aligned with the North- South (Cardo) and East-West (Decumanus) axis in an otherwise mostly curvilinear urban fabric. The geometry offers dimensions for a game of 7 vs. 7. The field outlines are marked with black tape following the contour of the patterned pavement. 4 goals are set up. Each team therefore attacks two goals and defends two goals along their respective axis.*
 ![Image](/portfolio_13.jpg)
-
+***
 portfolio 2020
 work done between 09/2018 and 05/2020.<br>
 mainly conceived as part of the masters degree at eth zurich. <br>
