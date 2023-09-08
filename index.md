@@ -1,7 +1,24 @@
-work by daniel calvo <br>
+daniel calvo <br>
 currently working at herzog de meuron.<br>
 contact [calvodaniel@protonmail.com](mailto:calvodaniel@protonmail.com)<br>
 last updated: 14/07/2023
+
+MFH Bassersdorf
+![Image](/pf_calvo_7.jpg)
+Blick aus der Steinligstrasse mit Benjeshecke und hoher Zeder<br>
+*Eine mit weisslicher Schlammfarbe angestrichene enge Vertikalschalung, kniehoch liegende Fenster, ausladende Balkone mit durchlässigem Geländer, Handläufe aus Kernholz und erdgrünfarbene textile Senkrechtstoren prägen das Fassadenbild.
+![Image](/pf_calvo_8.jpg)
+Blick vom Wohnraum
+![Image](/pf_calvo_9.1.jpg)
+Grundriss Erdgeschoss und Untergeschoss
+![Image](/pf_calvo_9.jpg)
+Grundriss Regelgeschoss, Schnitte
+![Image](/pf_calvo_10.jpg)
+Ansichten
+![Image](/pf_calvo_11.jpg)
+Fassadenausschnitt
+
+*** 
 
 ![Image](/pf_calvo_2.jpg)
 Point Cloud; Alte Fähre and reused elements<br>
@@ -25,20 +42,6 @@ two elements do not stand in relation to each other. Therefore, we propose an ap
 *Current agriculture land shouldn’t be kept as monoculture grassland. These “green deserts” in the center of Lochau offer barely any biodiversity and give the habitants no space for engagement or interaction. A process of transition towards a regenerative agriculture would open these space for multiple uses and actors.*
 
 ***
-
-MFH Bassersdorf
-![Image](/pf_calvo_7.jpg)
-Blick aus der Steinligstrasse, mit Benjeshecke, hoher Zeder und ausladenden Balkonen
-![Image](/pf_calvo_8.jpg)
-Blick vom Wohnraum
-![Image](/pf_calvo_9.jpg)
-Grundriss Regelgeschoss, Schnitte
-![Image](/pf_calvo_10.jpg)
-Ansichten
-![Image](/pf_calvo_11.jpg)
-Fassadenausschnitt
-
-*** 
 
 Napoli Porosa
 ![Image](/pf_calvo_12.jpg)
