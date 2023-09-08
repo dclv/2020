@@ -20,6 +20,8 @@ Fassadenausschnitt
 
 *** 
 
+Fähre Lochau, *Wettbewerbseingabe*
+
 ![Image](/pf_calvo_2.jpg)
 Point Cloud; Alte Fähre and reused elements<br>
 *The ferry is part of the collective memory of the inhabitants of Lochau. A place of everyday life and special occurences. The formed qualities hereof should be carried forward. Spatial configurations, circulation patterns, visual axis, materiality, colors, proportions and a choice of existing elements will be constituent for the Neue Fähre.*
