@@ -3,10 +3,10 @@ currently working at herzog de meuron.<br>
 contact [calvodaniel@protonmail.com](mailto:calvodaniel@protonmail.com)<br>
 last updated: 14/07/2023
 
-MFH Bassersdorf
+MFH Bassersdorf, *Wettbewerbseingabe*
 ![Image](/pf_calvo_7.jpg)
 Blick aus der Steinligstrasse mit Benjeshecke und hoher Zeder<br>
-*Eine mit weisslicher Schlammfarbe angestrichene enge Vertikalschalung, kniehoch liegende Fenster, ausladende Balkone mit durchlässigem Geländer, Handläufe aus Kernholz und erdgrünfarbene textile Senkrechtstoren prägen das Fassadenbild.
+*Eine mit weisslicher Schlammfarbe angestrichene enge Vertikalschalung, kniehoch liegende Fenster, ausladende Balkone mit durchlässigem Geländer, Handläufe aus Kernholz und erdgrünfarbene textile Senkrechtstoren prägen das Fassadenbild.*
 ![Image](/pf_calvo_8.jpg)
 Blick vom Wohnraum
 ![Image](/pf_calvo_9.1.jpg)
