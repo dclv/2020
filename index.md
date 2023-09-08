@@ -10,7 +10,10 @@ Blick aus der Steinligstrasse mit Benjeshecke und hoher Zeder<br>
 ![Image](/pf_calvo_8.jpg)
 Blick vom Wohnraum
 ![Image](/pf_calvo_9.1.jpg)
-Grundriss Erdgeschoss und Untergeschoss, Dachaufsicht
+Grundriss Erdgeschoss mit Umgebungsgestaltung
+![Image](/pf_calvo_9.2.jpg)
+Grundriss Untergeschoss, Dachaufsicht
+
 ![Image](/pf_calvo_9.jpg)
 Grundriss Regelgeschoss, Schnitte
 ![Image](/pf_calvo_10.jpg)
